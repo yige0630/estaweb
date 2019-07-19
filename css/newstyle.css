@@ -1,4 +1,4 @@
-body{
+﻿body{
 	background: url('../images/bz.jpg');
 	text-align: center;
 	font-family: ;
@@ -52,8 +52,8 @@ input[type="submit"]{
 }
 #n li{
 		float:left;
-	}
-	#n li a{
+}
+#n li a{
 		color:#ffffff;
 		text-decoration: none;
 		padding-top:4px;
@@ -63,8 +63,8 @@ input[type="submit"]{
 		text-align:center;
 		background-color: #191970;
 		margin-left:2px;	
-	}
-	#n li a:hover{
+}
+#n li a:hover{
 		background-color:#9999ff;
 		color:#ffffff;
-	}
+}
